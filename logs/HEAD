@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe chrystian gabriel <chrystiangabriel1@hotmail.com> 1511003902 -0200	commit (initial): primeira verção de produção
+cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004053 -0200	checkout: moving from master to master
+cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe 30eaae3b0aa5c0e6a038c441383902f785893b4f chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004110 -0200	commit: primeira versão de produção
+30eaae3b0aa5c0e6a038c441383902f785893b4f 30eaae3b0aa5c0e6a038c441383902f785893b4f chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004356 -0200	rebase -i (start): checkout refs/remotes/origin/master
+30eaae3b0aa5c0e6a038c441383902f785893b4f 30eaae3b0aa5c0e6a038c441383902f785893b4f chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004357 -0200	rebase -i (finish): returning to refs/heads/master
+30eaae3b0aa5c0e6a038c441383902f785893b4f 30eaae3b0aa5c0e6a038c441383902f785893b4f chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004389 -0200	rebase -i (start): checkout refs/remotes/origin/master
+30eaae3b0aa5c0e6a038c441383902f785893b4f 30eaae3b0aa5c0e6a038c441383902f785893b4f chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004389 -0200	rebase -i (finish): returning to refs/heads/master
+30eaae3b0aa5c0e6a038c441383902f785893b4f 2e1ab686d3b8ade004a85c2d5ecb80de0c45c5f4 chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004448 -0200	commit (amend): Primeira versão produção
+2e1ab686d3b8ade004a85c2d5ecb80de0c45c5f4 cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004596 -0200	checkout: moving from master to cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe
+cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004609 -0200	checkout: moving from cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe to cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe
+cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe 2e1ab686d3b8ade004a85c2d5ecb80de0c45c5f4 chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004664 -0200	checkout: moving from cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe to master
+2e1ab686d3b8ade004a85c2d5ecb80de0c45c5f4 cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe chrystian gabriel <chrystiangabriel1@hotmail.com> 1511004678 -0200	reset: moving to cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe
+cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe chrystian gabriel <chrystiangabriel1@hotmail.com> 1511005035 -0200	reset: moving to HEAD
+cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe cba11b15f93ac43ea3b1deff55f9f36e46cfe5fe chrystian gabriel <chrystiangabriel1@hotmail.com> 1511005127 -0200	reset: moving to HEAD
